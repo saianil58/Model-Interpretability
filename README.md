@@ -15,7 +15,7 @@ There are multiple python libraries for this task.
 
 This repo deals with such libraries and derives explanations of the balckbox models from pipelines. This is essential in explaning the model working to business.
 
-Repo link (https://nbviewer.jupyter.org/github/saianil58/Model-Interpretability/blob/master/Introduction%20to%20Model%20Interpretability.ipynb)
+Repo link [here](https://nbviewer.jupyter.org/github/saianil58/Model-Interpretability/blob/master/Introduction%20to%20Model%20Interpretability.ipynb)
 
 Documentations of these are:
 
