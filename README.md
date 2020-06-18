@@ -1,5 +1,7 @@
 # Model-Interpretability
 
+## Please Explain your Predictions?
+
 Machine learning is in the center of the latest progress in technology and is an essential tool for accurate predictions nowadays. However, most of the time we neither can clearly identify nor explain the logic behind these predictions because the model is just too complex. In those cases our machine learning model is called a ’Black Box’.
 
 ![Image](https://d33wubrfki0l68.cloudfront.net/5331cb13d71df10783ce7b69c7bc9f703db5bf3d/2ecd6/img/posts/lime/intro.png)
@@ -13,11 +15,13 @@ There are multiple python libraries for this task.
 2. LIME
 3. SHAP
 
-This repo deals with such libraries and derives explanations of the balckbox models from pipelines. This is essential in explaning the model working to business.
+## Practical Examples:
+
+This repo deals with such libraries and derives explanations of the balckbox models from pipelines. This is essential in explaning the model working to business. There are lot of insights generated from the expalnations and that would help business in making better decisions.
 
 Repo link [here](https://nbviewer.jupyter.org/github/saianil58/Model-Interpretability/blob/master/Introduction%20to%20Model%20Interpretability.ipynb)
 
-Documentations of these are:
+## Documentations:
 
 [ELI5](https://eli5.readthedocs.io/en/latest/)
 
