@@ -9,7 +9,7 @@ So how do we know if we can trust this model? How should we be able to trust it,
 These are important questions which occur when the challenges of Model explainability are presented, especially if it is used for decision making. Users need to be confident that the model will perform well. Gaining trust in predictions through increasing transparency of a black box model.
 
 There are multiple python libraries for this task.
-1. eli5
+1. ELI5
 2. LIME
 3. SHAP
 
